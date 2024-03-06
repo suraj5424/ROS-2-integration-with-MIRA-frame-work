@@ -24,4 +24,5 @@ Technical University of Applied Sciences Würzburg-Schweinfurt
 **Date:** 19th January, 2024
 
 **How to Use:**
-Video link to the project: [Project Link](https://youtu.be/AwdwOzbdsWI?si=jNzCeMc8p9zQjipc)"
+Youtube Video link to the project: [Project Link](https://youtu.be/AwdwOzbdsWI?si=jNzCeMc8p9zQjipc)"
+
